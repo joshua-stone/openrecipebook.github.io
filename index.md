@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## OpenRecipeBook Collaboritive Cooking
 
-You can use the [editor on GitHub](https://github.com/joshua-stone/openrecipebook.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+OpenRecipeBook is a recipe book written for the modern kitchen! One of the best things about open source is its collaborative nature and the sense of community that it creates. For a lot of projects however, finding new contributors can be difficult since many users don’t have the inclination to code, and writing high quality documentation can be very difficult. This project hopes to occupy a niche where contributing documentation through open source can be fun and easy, because anybody can cook and recipes can be fun to share!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+* [OpenRecipeBook main repo](https://github.com/joshua-stone/OpenRecipeBook)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [OpenRecipeBook Ebook](https://github.com/joshua-stone/OpenRecipeBook-Ebook)
 
-```markdown
-Syntax highlighted code block
+* [OpenRecipeBook Web UI](https://github.com/Mihail-K/OpenRecipeBook-Web)
 
-# Header 1
-## Header 2
-### Header 3
+### Community
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshua-stone/openrecipebook.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please check out the official [OpenRecipeBook Discord server](https://discord.gg/sDzCaeH)! On there you can discuss ways to improve OpenRecipeBook, make suggestions for recipes, recommend cooking tips, etc.
