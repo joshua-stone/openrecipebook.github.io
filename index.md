@@ -10,6 +10,14 @@ OpenRecipeBook is a recipe book written for the modern kitchen! One of the best 
 
 * [OpenRecipeBook Web UI](https://github.com/Mihail-K/OpenRecipeBook-Web)
 
+### Releases
+
+* [Main Edition v0.1](https://github.com/joshua-stone/OpenRecipeBook-Ebook/releases/download/0.1/main_book.pdf)
+
+* [Quick Recipes Edition v0.1](https://github.com/joshua-stone/OpenRecipeBook-Ebook/releases/download/0.1/quick_recipes.pdf)
+
+* [Cocktail Ediiton v0.1](https://github.com/joshua-stone/OpenRecipeBook-Ebook/releases/download/0.1/cocktail_book.pdf)
+
 ### Community
 
 Please check out the official [OpenRecipeBook Discord server](https://discord.gg/sDzCaeH)! On there you can discuss ways to improve OpenRecipeBook, make suggestions for recipes, recommend cooking tips, etc.
